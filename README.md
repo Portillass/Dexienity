@@ -1,2 +1,2 @@
 # sample
-# toms 
+# di sa ko mag code kapoy pa
