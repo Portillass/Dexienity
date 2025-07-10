@@ -2,8 +2,8 @@ package main
 
 import (
 
-	"fmt"
-	"time"
+	"fmt"  // Importing the fmt package for formatted I/O
+	"time"  // Importing the time package to work with date and time
 )
 func main() {
 	currentTime := time.Now()
