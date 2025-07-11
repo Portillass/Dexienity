@@ -6,6 +6,7 @@ import (
 	"time"  // Importing the time package to work with date and time
 )
 func main() {
+	// Get the current local time
 	currentTime := time.Now()
 
 	fmt.Println("Current Time:", currentTime)
