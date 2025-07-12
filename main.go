@@ -8,7 +8,8 @@ import (
 func main() {
 	// Get the current local time
 	currentTime := time.Now()
-
+	
+	// Print the full current time and date
 	fmt.Println("Current Time:", currentTime)
 
 	fmt.Println("Formated Date:", currentTime.Format("2006-01-02"))
