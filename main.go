@@ -17,7 +17,8 @@ func main() {
 	
 	// Format and print the time in HH:MM:SS (24-hour) format
 	fmt.Println("Formated Time:", currentTime.Format("15:04:05"))
-	
+
+	// Format and print both date and time together
 	fmt.Println("Dare and Time:" ,currentTime.Format("2006-01-02 15:04:05"))
 
 }
