@@ -5,6 +5,7 @@ import (
 	"fmt"  // Importing the fmt package for formatted I/O
 	"time"  // Importing the time package to work with date and time
 )
+// main function
 func main() {
 	// Get the current local time
 	currentTime := time.Now()
